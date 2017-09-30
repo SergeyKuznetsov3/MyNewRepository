@@ -1,1 +1,3 @@
-new information in file 1
+fixed information in file 1
+changes on dev
+
